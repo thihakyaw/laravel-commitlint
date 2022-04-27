@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.3.2](https://github.com/thihakyaw/laravel-commitlint/compare/v1.3.1...v1.3.2) (2022-04-27)
+
+
+### Bug Fixes
+
+* remove user controller ([cee04a9](https://github.com/thihakyaw/laravel-commitlint/commit/cee04a938a2fe55d0c626e6e10ace1a64d614b93))
+
 ### [1.3.1](https://github.com/thihakyaw/laravel-commitlint/compare/v1.3.0...v1.3.1) (2022-04-27)
 
 ## 1.3.0 (2022-04-27)
