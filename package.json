@@ -20,7 +20,7 @@
         "standard-version": "^9.3.2"
     },
     "name": "html",
-    "version": "1.3.2",
+    "version": "1.3.50",
     "main": "index.js",
     "repository": "git@github.com:thihakyaw/laravel-commitlint.git",
     "license": "MIT"
